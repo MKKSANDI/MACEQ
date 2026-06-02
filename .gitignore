@@ -1,0 +1,13 @@
+.DS_Store
+/.codex/
+/.build
+/.swift-build
+/dist
+/MicEQDriver/build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc

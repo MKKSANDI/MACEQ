@@ -1,0 +1,36 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">MACQ microphone EQ app</title>
+<desc id="desc">A dashboard-style mockup showing routing, EQ controls, levels, presets, and AI assistance.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720"><stop stop-color="#101820"/><stop offset="1" stop-color="#182533"/></linearGradient>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7DD3FC"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A7F3D0"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000" flood-opacity="0.35"/></filter>
+</defs>
+<rect width="1280" height="720" rx="40" fill="url(#bg)"/>
+<g filter="url(#shadow)">
+  <rect x="96" y="72" width="1088" height="576" rx="32" fill="#111827" stroke="#334155"/>
+  <rect x="96" y="72" width="1088" height="66" rx="32" fill="#1E293B"/>
+  <circle cx="136" cy="106" r="8" fill="#FF5F57"/><circle cx="164" cy="106" r="8" fill="#FFBD2E"/><circle cx="192" cy="106" r="8" fill="#28C840"/>
+  <text x="640" y="116" fill="#F8FAFC" font-family="Inter, SF Pro Display, Arial" font-size="22" font-weight="800" text-anchor="middle">MACQ</text>
+  <text x="152" y="206" fill="#F8FAFC" font-family="Inter, Arial" font-size="46" font-weight="850">Mic routing + real-time EQ</text>
+  <text x="154" y="250" fill="#A8B5C7" font-family="Inter, Arial" font-size="21">Process mic and app audio into a virtual microphone.</text>
+  <rect x="154" y="304" width="320" height="236" rx="24" fill="#1E293B" stroke="#334155"/>
+  <text x="188" y="354" fill="#7DD3FC" font-family="Inter, Arial" font-size="20" font-weight="800">Input</text>
+  <text x="188" y="391" fill="#F8FAFC" font-family="Inter, Arial" font-size="28" font-weight="800">Built-in Mic</text>
+  <text x="188" y="426" fill="#94A3B8" font-family="Inter, Arial" font-size="18">Application audio optional</text>
+  <rect x="188" y="466" width="220" height="16" rx="8" fill="#334155"/><rect x="188" y="466" width="162" height="16" rx="8" fill="url(#cyan)"/>
+  <rect x="514" y="304" width="320" height="236" rx="24" fill="#1E293B" stroke="#334155"/>
+  <text x="548" y="354" fill="#7DD3FC" font-family="Inter, Arial" font-size="20" font-weight="800">Processing</text>
+  <path d="M548 458C574 404 606 500 632 438C660 370 696 478 720 408C744 350 774 417 800 386" stroke="#22D3EE" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="590" cy="432" r="10" fill="#34D399"/><circle cx="680" cy="454" r="10" fill="#F472B6"/><circle cx="760" cy="398" r="10" fill="#FBBF24"/>
+  <text x="548" y="506" fill="#F8FAFC" font-family="Inter, Arial" font-size="25" font-weight="800">EQ + voice tools</text>
+  <rect x="874" y="304" width="260" height="236" rx="24" fill="#1E293B" stroke="#334155"/>
+  <text x="908" y="354" fill="#7DD3FC" font-family="Inter, Arial" font-size="20" font-weight="800">Output</text>
+  <text x="908" y="391" fill="#F8FAFC" font-family="Inter, Arial" font-size="28" font-weight="800">MicEQ</text>
+  <text x="908" y="426" fill="#94A3B8" font-family="Inter, Arial" font-size="18">Virtual microphone</text>
+  <rect x="908" y="464" width="156" height="42" rx="21" fill="url(#green)"/>
+  <text x="986" y="492" fill="#062016" font-family="Inter, Arial" font-size="17" font-weight="900" text-anchor="middle">LIVE</text>
+  <text x="154" y="594" fill="#94A3B8" font-family="Inter, Arial" font-size="19">Presets, menu-bar mute, driver install flow, and optional Gemini assist.</text>
+</g>
+</svg>
