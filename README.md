@@ -5,7 +5,7 @@
 <h1 align="center">MACQ</h1>
 
 <p align="center">
-  <strong>Mic EQ, voice processing, app-audio routing, and a virtual microphone for macOS.</strong>
+  <strong>Vibe Coded Mic EQ, voice processing, app-audio routing, and a virtual microphone for macOS.</strong>
 </p>
 
 <p align="center">
