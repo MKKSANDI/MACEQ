@@ -139,3 +139,11 @@ Generated output is ignored:
 ## Upload Notes
 
 This repo is close to publish-ready. Before making it public, choose a license and decide whether `ThirdParty/libASPL` should stay as a submodule or be vendored directly with its license files preserved.
+
+## Support
+
+<p align="center">
+  <a href="https://buymeacoffee.com/thebigtk">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
